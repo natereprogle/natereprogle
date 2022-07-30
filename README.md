@@ -8,11 +8,11 @@ I mainly develop Spigot plugins but I want to dabble in some other languages in 
 
 My "flagship" plugin is Honeypot, an anti-grief plugin designed to help catch griefers. I develop it for fun, but people actually use it, which is kinda cool! Check out some stats below on it
 
-![GitHub Repo stars](https://img.shields.io/github/stars/TerrrorByte/Honeypot?label=Honeypot%20Stars) ![bStats Servers](https://img.shields.io/bstats/servers/15425?label=Servers%20using%20Honeypot) ![bStats Players](https://img.shields.io/bstats/players/15425?label=Players%20using%20Honeypot)
+[![GitHub Repo stars](https://img.shields.io/github/stars/TerrrorByte/Honeypot?label=Honeypot%20Stars)](https://github.com/TerrrorByte/Honeypot) [![bStats Servers](https://img.shields.io/bstats/servers/15425?label=Servers%20using%20Honeypot)](https://bstats.org/plugin/bukkit/Honeypot/15425) [![bStats Players](https://img.shields.io/bstats/players/15425?label=Players%20using%20Honeypot)](https://bstats.org/plugin/bukkit/Honeypot/15425)
 
 I also stream on Twitch Tuesdays and Saturdays at 8:30 PM CST. If you want to vibe with us, check us out below 😄
 
-![Twitch Status](https://img.shields.io/twitch/status/TerrorByteTW?label=Visit%20my%20Twitch&style=social)
+[![Twitch Status](https://img.shields.io/twitch/status/TerrorByteTW?label=Visit%20my%20Twitch&style=social)](https://www.twitch.tv/TerrorByteTW)
 
 <!--
 **TerrrorByte/TerrrorByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
