@@ -1,3 +1,5 @@
+![Hi There](https://i.imgur.com/o233A31.png)
+
 ### Hi there 👋
 
 I'm Nate, I go by TerrorByte or variations online (TerrrorByte, TerrorByteTW, etc.). I'm a tech enthusiast who has never had a job in Software Development, yet it's literally one of my favorite things to do 😜
