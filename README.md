@@ -4,15 +4,11 @@
 
 I'm Nate, I go by TerrorByte or variations online (TerrrorByte, TerrorByteTW, etc.). I'm a tech enthusiast who has never had a job in Software Development, yet it's literally one of my favorite things to do 😜
 
-I mainly develop Spigot plugins but I want to dabble in some other languages in the future!
+I mainly write in Java and JavaScript, but love learning other languages too!
 
-## My work
+## Let's Hang!
 
-My "flagship" plugin is Honeypot, an anti-grief plugin designed to help catch griefers. I develop it for fun, but people actually use it, which is kinda cool! Check out some stats below on it
-
-[![GitHub Repo stars](https://img.shields.io/github/stars/TerrrorByte/Honeypot?label=Honeypot%20Stars)](https://github.com/TerrrorByte/Honeypot) [![bStats Servers](https://img.shields.io/bstats/servers/15425?label=Servers%20using%20Honeypot)](https://bstats.org/plugin/bukkit/Honeypot/15425) [![bStats Players](https://img.shields.io/bstats/players/15425?label=Players%20using%20Honeypot)](https://bstats.org/plugin/bukkit/Honeypot/15425)
-
-I also stream on Twitch Tuesdays and Saturdays at 8:30 PM CST. If you want to vibe with us, check us out below 😄
+I stream games (and sometimes programming) on Twitch Tuesdays and Saturdays at 8:30 PM CST. If you want to vibe with us, check us out below 😄
 
 [![Twitch Status](https://img.shields.io/twitch/status/TerrorByteTW?label=Visit%20my%20Twitch&style=social)](https://www.twitch.tv/TerrorByteTW)
 
