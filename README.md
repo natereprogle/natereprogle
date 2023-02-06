@@ -4,7 +4,7 @@
 
 I'm Nate, I go by TerrorByte or variations online (TerrrorByte, TerrorByteTW, etc.). I'm a tech enthusiast who has never had a job in Software Development, yet it's literally one of my favorite things to do 😜
 
-I mainly write in Java and JavaScript, but love learning other languages too!
+I mainly write in Type/JavaScript and Java, but love learning other languages too!
 
 ## Let's Hang!
 
