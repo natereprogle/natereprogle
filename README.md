@@ -8,6 +8,6 @@ I mainly write in Type/JavaScript and Java, but love learning other languages to
 
 ## Let's Hang!
 
-I stream games (and sometimes programming) on Twitch Saturdays at 12:00 PM CST and Sundays at 1:30 PM CST. If you want to vibe with us, check us out below 😄
+I stream games (and sometimes programming) on Twitch sometimes. If you want to vibe with me, check out below 😄
 
 [![Twitch Status](https://img.shields.io/twitch/status/TerrorByteTW?label=Visit%20my%20Twitch&style=social)](https://www.twitch.tv/TerrorByteTW)
